@@ -1,0 +1,15 @@
+# Arquivos de save
+/www/save/
+
+# Arquivos temporários do editor
+*~
+*.bak
+*.rpgproject.bak
+
+# Arquivos de configuração local
+/nbproject/
+/.idea/
+
+# Logs e cache
+/cache/
+/logs
