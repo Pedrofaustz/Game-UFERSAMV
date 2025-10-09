@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"expanded":true,"name":"CAMPUS ANGICOS","order":1,"parentId":0,"scrollX":6622,"scrollY":6324},
-{"id":2,"expanded":true,"name":"Interior - Bloco de Aulas 1","order":2,"parentId":1,"scrollX":1577.3333333333333,"scrollY":580},
-{"id":3,"expanded":false,"name":"Bloco 1 - Sala 4","order":3,"parentId":2,"scrollX":540.6666666666666,"scrollY":325.3333333333333},
-{"id":4,"expanded":false,"name":"Abertura","order":4,"parentId":0,"scrollX":434,"scrollY":443}
+{"id":1,"expanded":true,"name":"CAMPUS ANGICOS","order":1,"parentId":0,"scrollX":6070,"scrollY":7856},
+{"id":2,"expanded":true,"name":"Interior - Bloco de Aulas 1","order":2,"parentId":1,"scrollX":2228.8,"scrollY":368},
+{"id":3,"expanded":false,"name":"Bloco 1 - Sala 4","order":3,"parentId":2,"scrollX":655.2,"scrollY":358.4},
+{"id":4,"expanded":false,"name":"Abertura","order":4,"parentId":0,"scrollX":655.2,"scrollY":358.4}
 ]
