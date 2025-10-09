@@ -1,4 +1,5 @@
 Instale o RPGMAKER MV BUNDLE NA STEAM (R$ 34,99)
+LINK: https://store.steampowered.com/sub/88038/
 -----------------------------------------------------------
 
 CLONAGEM DO REPOSITÓRIO:
