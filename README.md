@@ -1,55 +1,43 @@
-# 🎓 UFERSAMV-RPG
+# UFERSA: Projeto 9 🎮🧪
 
-> Uma solução de tecnologia educacional focada em gamificação, desenvolvida para integrar o ecossistema de aprendizado do semiárido. O projeto atua como o ambiente digital da iniciativa de *Escape Room* da incubadora Ineagro, promovendo o engajamento estudantil através de experiências híbridas.
-> 
-> 📄 **Propriedade Intelectual:** Software registrado no INPI (Processo BR512026000128-5).
+O **UFERSA: Projeto 9** surgiu da necessidade de **aprimorar e expandir um jogo já desenvolvido por [@mateuszyn](https://github.com/mateuszyn)**, adaptando a experiência para utilização no **GO!RN 2026**, durante o **Escape Room da UFERSA**.
 
----
+A nova versão mantém a proposta original do jogo, mas adiciona uma nova narrativa e mecânicas baseadas nos **9 níveis de Technology Readiness Level (TRL)**, transformando a experiência em uma jornada de exploração, aprendizado e inovação.
 
-## 🛠️ Tecnologias e Pré-requisitos
+## 🎯 Proposta
 
-Para executar e contribuir com o projeto, é necessário o seguinte ambiente de desenvolvimento:
+O jogador assume o papel de um estudante que precisa percorrer diferentes espaços da **UFERSA Angicos** para encontrar as **9 Insígnias TRL**.
 
-*   **Engine:** [RPG Maker MV](https://store.steampowered.com/sub/88038/) (Requer licença ativa via Steam).
-*   **Versionamento:** Git / [GitHub Desktop](https://desktop.github.com/).
+A cada etapa, a tecnologia desenvolvida pelos jogadores amadurece, passando de uma descoberta científica inicial até chegar a uma solução pronta para ser aplicada no mercado.
 
----
+## 🔬 Os 9 níveis de TRL
 
-## 🚀 Instalação e Configuração (Setup)
+* **TRL 1** — Princípios científicos observados
+* **TRL 2** — Conceito tecnológico
+* **TRL 3** — Prova de conceito
+* **TRL 4** — Validação em laboratório
+* **TRL 5** — Validação em ambiente relevante
+* **TRL 6** — Demonstração do protótipo
+* **TRL 7** — Demonstração em ambiente operacional
+* **TRL 8** — Sistema completo e qualificado
+* **TRL 9** — Sistema comprovado em ambiente operacional
 
-1. **Clonando o Repositório:**
-   * Abra o GitHub Desktop.
-   * Navegue até `File > Clone Repository...`
-   * Localize o repositório `UFERSAMV-RPG` e defina o diretório local (ex: `Documentos/Games/UFERSAMV-RPG`).
-   * Clique em **Clone** e aguarde a finalização do download.
+## 🏫 GO!RN 2026 — Escape Room UFERSA
 
-2. **Inicializando o Projeto:**
-   * Navegue até o diretório local clonado.
-   * Execute o arquivo `Game.rpgproject`.
-   * O RPG Maker MV será inicializado com a versão mais recente (HEAD) da branch atual.
+O jogo foi pensado para funcionar como parte da experiência de **Escape Room**, utilizando a estrutura da UFERSA Angicos como cenário da aventura.
 
----
+Os participantes deverão explorar os ambientes, conversar com personagens, solucionar pequenos desafios e encontrar pistas que os conduzirão pelos diferentes níveis de TRL.
 
-## 🔄 Fluxo de Contribuição (Workflow)
+A proposta é fazer com que o participante **aprenda sobre inovação enquanto joga**, sem transformar a experiência em uma aula tradicional.
 
-Para garantirmos a integridade do código e dos assets do jogo, todo o time deve operar sob a seguinte regra de ouro: **Sempre sincronize a base de código antes de iniciar o desenvolvimento.**
+## 🚀 Objetivo da nova versão
 
-### O Ciclo Diário de Desenvolvimento
+A evolução do projeto busca unir:
 
-1. **Pull (Sincronização):** No GitHub Desktop, clique em `Fetch origin` (ou `Pull origin` se houver alterações pendentes). Isso garante que você está trabalhando na versão mais atualizada.
-2. **Work (Desenvolvimento):** Abra o projeto, crie seus mapas, programe os eventos e salve as alterações no editor.
-3. **Commit (Registro):** Retorne ao GitHub Desktop. Revise os arquivos alterados e crie um commit semântico (veja os padrões abaixo).
-4. **Push (Envio):** Clique em `Push origin` para enviar suas atualizações para o repositório remoto.
+**RPG + Escape Room + Ciência + Tecnologia + Inovação + Empreendedorismo.**
 
-> **Resumo do Ciclo:** `Pull` ➔ `Work` ➔ `Commit` ➔ `Push`
+O jogador começa com uma ideia e, ao longo da aventura, precisa amadurecê-la até transformá-la em uma tecnologia pronta para o mundo real.
 
----
+> **Uma descoberta. Uma ideia. Nove níveis. Uma inovação.**
 
-## 📝 Padrões de Commit (Conventional Commits)
-
-Para manter o histórico legível e profissional, recomendamos o uso de prefixos no título das suas mensagens de commit:
-
-*   `feat:` Para novas funcionalidades (ex: *feat: cria o NPC da biblioteca e estrutura de diálogos*).
-*   `fix:` Para correção de bugs (ex: *fix: corrige colisão no mapa do laboratório*).
-*   `docs:` Para alterações na documentação ou README.
-*   `assets:` Para adição ou modificação de imagens, áudios e sprites.
+Este projeto está sendo desenvolvido para a experiência do **GO!RN 2026 na UFERSA Angicos**.
