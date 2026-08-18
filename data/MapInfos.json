@@ -1,7 +1,13 @@
 [
 null,
-{"id":1,"expanded":true,"name":"CAMPUS ANGICOS","order":1,"parentId":0,"scrollX":5328,"scrollY":7224},
-{"id":2,"expanded":true,"name":"Interior - Bloco de Aulas 1","order":2,"parentId":1,"scrollX":2228.8,"scrollY":368},
-{"id":3,"expanded":false,"name":"Bloco 1 - Sala 4","order":3,"parentId":2,"scrollX":655.2,"scrollY":358.4},
-{"id":4,"expanded":false,"name":"Abertura","order":4,"parentId":0,"scrollX":655.2,"scrollY":358.4}
+{"id":1,"expanded":true,"name":"CAMPUS ANGICOS","order":1,"parentId":0,"scrollX":5917.714285714285,"scrollY":7964.571428571428},
+{"id":2,"expanded":true,"name":"Interior - Bloco de Aulas 1","order":2,"parentId":1,"scrollX":1796,"scrollY":594},
+{"id":3,"expanded":false,"name":"Bloco 1 - Sala 4","order":3,"parentId":2,"scrollX":1084,"scrollY":610},
+{"id":4,"expanded":false,"name":"Abertura","order":10,"parentId":0,"scrollX":1858.2857142857142,"scrollY":1045.7142857142856},
+{"id":5,"expanded":true,"name":"Interior Bloco de Lab. 2","order":5,"parentId":1,"scrollX":1796,"scrollY":594},
+{"id":6,"expanded":false,"name":"Lab. Quimica","order":6,"parentId":5,"scrollX":1084,"scrollY":610},
+{"id":7,"expanded":false,"name":"Lab. Informatica","order":7,"parentId":5,"scrollX":1084,"scrollY":610},
+{"id":8,"expanded":false,"name":"Bloco 1 - Sala 10","order":4,"parentId":2,"scrollX":1084,"scrollY":610},
+{"id":9,"expanded":true,"name":"Interior - Bloco de Prof 2","order":8,"parentId":1,"scrollX":1084,"scrollY":594},
+{"id":10,"expanded":false,"name":"Auditótio","order":9,"parentId":9,"scrollX":1084,"scrollY":610}
 ]
