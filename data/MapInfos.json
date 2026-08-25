@@ -1,16 +1,16 @@
 [
 null,
-{"id":1,"expanded":true,"name":"CAMPUS ANGICOS","order":1,"parentId":0,"scrollX":3408,"scrollY":6120},
-{"id":2,"expanded":true,"name":"Interior - Bloco de Aulas 1","order":2,"parentId":1,"scrollX":434,"scrollY":435},
-{"id":3,"expanded":false,"name":"Bloco 1 - Sala 4","order":3,"parentId":2,"scrollX":434,"scrollY":443},
-{"id":4,"expanded":false,"name":"Abertura","order":13,"parentId":0,"scrollX":434,"scrollY":443},
-{"id":5,"expanded":true,"name":"Interior Bloco de Lab. 2","order":5,"parentId":1,"scrollX":732,"scrollY":435},
+{"id":1,"expanded":true,"name":"CAMPUS ANGICOS","order":1,"parentId":0,"scrollX":4093.5,"scrollY":8536.5},
+{"id":2,"expanded":true,"name":"Interior - Bloco de Aulas 1","order":2,"parentId":1,"scrollX":1404,"scrollY":652.5},
+{"id":3,"expanded":false,"name":"Bloco 1 - Sala 4","order":3,"parentId":2,"scrollX":651,"scrollY":664.5},
+{"id":4,"expanded":false,"name":"Abertura","order":13,"parentId":0,"scrollX":651,"scrollY":664.5},
+{"id":5,"expanded":true,"name":"Interior Bloco de Lab. 2","order":5,"parentId":1,"scrollX":832,"scrollY":624},
 {"id":6,"expanded":false,"name":"Lab. Quimica - Não USE","order":6,"parentId":5,"scrollX":434,"scrollY":443},
-{"id":7,"expanded":false,"name":"Lab. Informatica","order":7,"parentId":5,"scrollX":434,"scrollY":443},
-{"id":8,"expanded":false,"name":"Bloco 1 - Sala 10","order":4,"parentId":2,"scrollX":622,"scrollY":435},
-{"id":9,"expanded":true,"name":"Interior - Sala dos Prof. 2","order":9,"parentId":1,"scrollX":434,"scrollY":435},
+{"id":7,"expanded":false,"name":"Lab. Informatica","order":7,"parentId":5,"scrollX":651,"scrollY":664.5},
+{"id":8,"expanded":false,"name":"Bloco 1 - Sala 10","order":4,"parentId":2,"scrollX":651,"scrollY":664.5},
+{"id":9,"expanded":true,"name":"Interior - Sala dos Prof. 2","order":9,"parentId":1,"scrollX":651,"scrollY":652.5},
 {"id":10,"expanded":false,"name":"Auditório","order":10,"parentId":9,"scrollX":651,"scrollY":652.5},
 {"id":11,"expanded":false,"name":"Sala - INEAGRO CABUGI","order":11,"parentId":9,"scrollX":651,"scrollY":664.5},
 {"id":12,"expanded":false,"name":"Sala - Joao P.","order":12,"parentId":9,"scrollX":434,"scrollY":443},
-{"id":13,"expanded":false,"name":"Lab Quimica v2","order":8,"parentId":5,"scrollX":426,"scrollY":469}
+{"id":13,"expanded":false,"name":"Lab Quimica v2","order":8,"parentId":5,"scrollX":832,"scrollY":640}
 ]
