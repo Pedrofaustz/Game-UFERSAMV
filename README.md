@@ -1,4 +1,4 @@
-# UFERSA: Projeto 9 🎮🧪
+# UFERSAmv - Projeto 9 🎮🧪
 
 O **UFERSA: Projeto 9** surgiu da necessidade de **aprimorar e expandir um jogo já desenvolvido por [@mateuszyn](https://github.com/mateuszyn)**, adaptando a experiência para utilização no **GO!RN 2026**, durante o **Escape Room da UFERSA**.
 
