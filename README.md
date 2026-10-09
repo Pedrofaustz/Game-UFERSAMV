@@ -36,6 +36,15 @@ A evolução do projeto busca unir:
 
 **RPG + Escape Room + Ciência + Tecnologia + Inovação + Empreendedorismo.**
 
+## 🎮 Jogue na Web
+
+Não precisa instalar nada! Você pode jogar **UFERSA: Projeto 9** diretamente pelo navegador, tanto no **computador quanto no celular**.
+
+🌐 **[Clique aqui para jogar a versão Web](https://ufersamv.itch.io/projeto-alquimia)**
+
+> 💻 PC | 📱 Celular | 🌐 Acesso pelo navegador
+
+
 O jogador começa com uma ideia e, ao longo da aventura, precisa amadurecê-la até transformá-la em uma tecnologia pronta para o mundo real.
 
 > **Uma descoberta. Uma ideia. Nove níveis. Uma inovação.**
